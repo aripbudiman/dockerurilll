@@ -1,0 +1,5 @@
+mariadb_data
+media
+postgresql_data
+sessions
+.env
