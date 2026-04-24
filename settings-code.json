@@ -1,0 +1,142 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Bearded Theme Arc Blueberry",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.formatOnSave": true
+  },
+  "beautify.language": {
+    "html": [
+      "htm",
+      "html",
+      "blade"
+    ]
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.fontSize": 20,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "bracketPairColorizer.depreciation-notice": true,
+  "settingsSync.ignoredExtensions": [
+    "gulajavaministudio.mayukaithemevsc",
+    "ms-python.python"
+  ],
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "Dank Mono",
+  "editor.tabSize": 4,
+  "editor.fontWeight": "100",
+  "editor.fontLigatures": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "swaggerViewer.previewInBrowser": true,
+  "openapi.securityAuditToken": "CiCCApZ3o7VdDlo/VQYynH6M8riHz4xTGYwfFcnGpVYHzhIYsWQu3/pF+pnBlpKqUL6ozwOSajJvxlodGn3lRv8JJJknfPLm9H8oroXnVIcOloG1YFyneyvR8D5a9Zx7wqUJmciONTcGhT6hxLdmQWXhs/89W/lGGS0ZtRF8It1e2u2yd6vPyEOdJqDKVdZ2RX88mA1DeCU9dh5zDev1cJrrDQ0Fx5KKEuDbLVFyd99T9tIt8aOdYWD7Pg==",
+  "openapi.platformUrl": "https://platform.42crunch.com",
+  "openapi.platformServices": "",
+  "openapi.platformScandManager": {
+    "url": "",
+    "auth": "none",
+    "header": {
+      "name": "",
+      "value": ""
+    }
+  },
+  "openapi.docker": {
+    "replaceLocalhost": true,
+    "useHostNetwork": true
+  },
+  "openapi.platformConformanceScanRuntime": "docker",
+  "openapi.platformConformanceScanImage": "42crunch/scand-agent:v2.0.0",
+  "liveServer.settings.donotVerifyTags": true,
+  "CodeGPT.apiKey": "CodeGPT Plus Beta",
+  "codeium.enableCodeLens": false,
+  "diffEditor.codeLens": true,
+  "[blade]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "codeium.enableConfig": {
+    "*": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[spec]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.env.linux": {},
+  "tabnine.experimentalAutoImports": true,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "stylelint.enable": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "eslint.enable": false,
+  "RainbowBrackets.depreciation-notice": false,
+  "[json]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "editor.formatOnSave": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "database-client.autoSync": true,
+  "explorer.confirmDelete": false,
+  "editor.linkedEditing": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "afterDelay",
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
+    "pubspec.yaml": "pubspec.lock,pubspec_overrides.yaml,.packages,.flutter-plugins,.flutter-plugins-dependencies,.metadata",
+    "*.dart": "${capture}.g.dart",
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.db": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.s3db": "${capture}.${extname}-*"
+  },
+  "editor.rulers": [
+    {},
+    120
+  ],
+  "[sql]": {
+    "editor.formatOnSave": true
+  },
+  "[php]": {
+    "editor.formatOnSave": true
+  },
+  "[python]": {
+    "editor.formatOnSave": true
+  },
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "editor.fontVariations": false,
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.editorAssociations": {
+    "*.xlsx": "default"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "HookyQR.beautify",
+    "editor.formatOnSave": false
+  },
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "redhat.telemetry.enabled": true
+}
